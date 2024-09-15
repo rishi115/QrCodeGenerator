@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506419713587",
+    "project_id": "qrcode-931ab",
+    "storage_bucket": "qrcode-931ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506419713587:android:b5c74c77e6ff2da98f7546",
+        "android_client_info": {
+          "package_name": "com.example.qrcodegenerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWHuW7LNbtw_1YMX-INCbX3wvdnEdiBXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
